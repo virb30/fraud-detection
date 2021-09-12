@@ -3,6 +3,8 @@
 Nesse projeto realizamos o treinamento de alguns modelos de Machine Learning para classificação e os comparamos entre si para avaliar qual deles aprensenta o melhor desempenho
 no contexto de Detecção de fraudes em carão de crédito. Os dados foram obtidos do Kaggle https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+Confira o [artigo](https://www.viniboscoa.dev/blog/deteccao-de-fraude-em-cartoes-de-credito) no blog.
+
 A análise completa você encontra [aqui](https://colab.research.google.com/drive/1TlP1wDr23uR3Bzu2uyXDxNXtmYZALkUP?usp=sharing).
 
 ### Contato
